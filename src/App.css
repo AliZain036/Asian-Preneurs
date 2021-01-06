@@ -2,6 +2,10 @@
   text-align: center;
 }
 
+.signup {
+  height: 100vh;
+}
+
 .row {
   margin-bottom: 20px;
 }

@@ -1,0 +1,8 @@
+hr {
+  margin-bottom: 20px;
+}
+.flex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
